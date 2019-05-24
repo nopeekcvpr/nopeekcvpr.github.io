@@ -33,3 +33,17 @@ Jakub Konečný, Google<br/>
 03:10 -- 03:50 Module V:  Homomorphic Encryption for Neural Networks & Privacy in Cloud by
 Hassan Takabi, UNT <br/>
 03:50 -- 04:00 Discussion of Open Problems <br/>**
+
+**Organizers:**<br/>
+Brendan McMahan (Google, USA),
+Hassan Takabi (University of North Texas, Texas, USA),
+Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA).
+Ramesh Raskar (MIT Media Lab, Cambridge, Massachusetts, USA);
+**Duration:** Half-day (4 hours)<br/>
+**Lecturers:**<br/>
+Brendan McMahan (Google, USA),
+Jakub Konečný (Google, USA),
+Otkrist Gupta (LendBuzz);
+Ramesh Raskar (MIT Media Lab, Cambridge, Massachusetts, USA);
+Hassan Takabi (University of North Texas, Texas, USA),
+Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA). 
