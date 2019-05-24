@@ -2,7 +2,7 @@
 
 <a href=""><img src="nopeekcvpr.github.io/title.png" align="left" height="325" width="600"> </a>
 
-This tutorial presents different methods for protecting confidential data on clients
+<p align="left">This tutorial presents different methods for protecting confidential data on clients
 while still allowing servers to train models. In particular, we focus on distributed deep learning
 approaches under the constraint that local data sources of clients (e.g. photos on phones or
 medical images at hospitals) are not allowed to be shared with the server or amongst other
@@ -10,7 +10,7 @@ clients due to privacy, regulations or trust. We describe such methods that incl
 learning, split learning, homomorphic encryption, and differential privacy for securely learning
 and inferring with neural networks. We also study their trade-offs with regards to computational
 resources and communication efficiency in addition to sharing practical know-how of deploying
-such systems. 
+such systems. </p align="center">
 <br/><br/>
 **Takeaways:** Attendees will get an overview of secure, private distributed deep learning for
 images and videos. Hands on examples of different distributed deep learning techniques that
