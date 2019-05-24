@@ -38,11 +38,12 @@ Brendan McMahan (Google, USA),
 Hassan Takabi (University of North Texas, Texas, USA),
 Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA).
 Ramesh Raskar (MIT Media Lab, Cambridge, Massachusetts, USA);<br/>
-**Duration:** Half-day (4 hours)<br/>
+
 **Lecturers:**<br/>
 Brendan McMahan (Google, USA),
 Jakub Konečný (Google, USA),
 Otkrist Gupta (LendBuzz);
 Ramesh Raskar (MIT Media Lab, Cambridge, Massachusetts, USA);
 Hassan Takabi (University of North Texas, Texas, USA),
-Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA). 
+Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA). <br/>
+**Duration:** Half-day (4 hours)<br/><br/>
