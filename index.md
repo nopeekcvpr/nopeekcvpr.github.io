@@ -45,5 +45,5 @@ Jakub Konečný (Google, USA),
 Otkrist Gupta (LendBuzz);
 Ramesh Raskar (MIT Media Lab, Cambridge, Massachusetts, USA);
 Hassan Takabi (University of North Texas, Texas, USA),
-Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA). <br/>
+Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA). <br/><br/>
 **Duration:** Half-day (4 hours)<br/><br/>
