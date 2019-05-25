@@ -49,11 +49,12 @@ Praneeth Vepakomma (MIT Media Lab, Cambridge, Massachusetts, USA) <br/>
 **References** <br/>
 The key papers from the authors are:<br/>
 1.) **(Federated learning)** Federated learning: Strategies for improving communication efficiency, <br/>Jakub Konečný, Brendan McMahan, Felix X. Yu, Ananda Theertha Suresh & Dave Bacon, [PDF](https://arxiv.org/pdf/1610.05492) (2016).<br/><br/>
-2.) **(Split learning)** Distributed learning of deep neural network over multiple agents,<br/> Otkrist Gupta and Ramesh Raskar, Journal of
+2.) **(Federated learning)** Towards federated learning at scale: System design, <br/>Jakub Konečný, Keith Bonawitz, Hubert Eichner, Wolfgang Grieskamp et.al, 2nd SysML conference, [PDF](https://www.sysml.cc/doc/2019/193.pdf), (2019).<br/><br/>
+3.) **(Split learning)** Distributed learning of deep neural network over multiple agents,<br/> Otkrist Gupta and Ramesh Raskar, Journal of
 Network and Computer Applications, [PDF](https://www.sciencedirect.com/science/article/pii/S1084804518301590) (2018) <br/><br/>
-3.) **(Split learning)** Reducing leakage in distributed deep learning for sensitive health data,<br/> Praneeth Vepakomma, Otkrist Gupta, Abhimanyu Dubey, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good, [PDF](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/29_aisg_iclr2019.pdf) (2019).<br/><br/>
-4.) **(Split learning)** Split learning for health: Distributed deep learning without sharing raw patient data, <br/> Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good, [PDF](https://arxiv.org/pdf/1812.00564.pdf) (2018).<br/><br/>
-5.) **(Homomorphic encryption for deep learning)** CryptoDL: Deep Neural Networks over Encrypted Data, <br/> Ehsan Hesamifard, Hassan Takabi, and Mehdi Ghasemi, [PDF](https://arxiv.org/pdf/1711.05189) (2017).<br/><br/>
-6.) **(Survey paper)** No Peek: A Survey of private distributed deep learning, <br/> Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, [PDF](https://arxiv.org/pdf/1812.03288.pdf) (2018).<br/>
+4.) **(Split learning)** Reducing leakage in distributed deep learning for sensitive health data,<br/> Praneeth Vepakomma, Otkrist Gupta, Abhimanyu Dubey, Ramesh Raskar, ICLR 2019 Workshop on AI for social good, [PDF](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/29_aisg_iclr2019.pdf) (2019).<br/><br/>
+5.) **(Split learning)** Split learning for health: Distributed deep learning without sharing raw patient data, <br/> Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, ICLR 2019 Workshop on AI for social good, [PDF](https://arxiv.org/pdf/1812.00564.pdf) (2018).<br/><br/>
+6.) **(Homomorphic encryption for deep learning)** CryptoDL: Deep Neural Networks over Encrypted Data, <br/> Ehsan Hesamifard, Hassan Takabi, and Mehdi Ghasemi, [PDF](https://arxiv.org/pdf/1711.05189) (2017).<br/><br/>
+7.) **(Survey paper)** No Peek: A Survey of private distributed deep learning, <br/> Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, [PDF](https://arxiv.org/pdf/1812.03288.pdf) (2018).<br/>
 
 **Visit project pages for ['Federated Learning'](https://www.tensorflow.org/federated) and ['Split Learning'](https://splitlearning.github.io/) for further details!** <br/>
