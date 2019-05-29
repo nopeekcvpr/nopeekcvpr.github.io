@@ -18,19 +18,19 @@ operate while protecting confidential patterns in data will be shared. Finally, 
 examples demonstrating how these techniques can be implemented across various
 configurations in different application domains will be shared.
 <br/><br/>
-**Tutorial Schedule: <br/>
-00:00 -- 00:30 Module I: Introduction to Secure ML and Distributed Deep Learning <br/> by
+**Tutorial Schedule (in PM): <br/>
+01:30 -- 02:00 Module I: Introduction to Secure ML and Distributed Deep Learning <br/> by
 Ramesh Raskar, MIT <br/><br/>
-00:30 -- 01:30 Module II: Federated Learning at Google - Overview <br/> by
+02:00 -- 03:00 Module II: Federated Learning at Google - Overview <br/> by
 Brendan McMahan, Google <br/><br/>
-01:30 -- 01:40 Q&A and Break<br/><br/>
-01:40 -- 02:20 Module III: Split Learning <br/> by Praneeth Vepakomma, MIT and Otkrist Gupta, LendBuzz<br/><br/>
-02:20 -- 03:00 Module IV: Federated Learning at Google - Research <br/> by
-Jakub Konečný, Google<br/><br/>
 03:00 -- 03:10 Q&A and Break<br/><br/>
-03:10 -- 03:50 Module V:  Homomorphic Encryption for Neural Networks & Privacy Policies in Cloud <br/> by
+03:10 -- 03:50 Module III: Split Learning <br/> by Praneeth Vepakomma, MIT and Otkrist Gupta, LendBuzz<br/><br/>
+03:50 -- 04:30 Module IV: Federated Learning at Google - Research <br/> by
+Jakub Konečný, Google<br/><br/>
+04:30 -- 04:40 Q&A and Break<br/><br/>
+04:40 -- 05:20 Module V:  Homomorphic Encryption for Neural Networks & Privacy Policies in Cloud <br/> by
 Hassan Takabi, UNT <br/><br/>
-03:50 -- 04:00 Discussion of Open Problems <br/><br/>**
+05:20 -- 05:30 Discussion of Open Problems <br/><br/>**
 **Duration:** Half-day (4 hours)<br/><br/>
 **Organizers:**<br/>
 Brendan McMahan (Google, USA)<br/>
