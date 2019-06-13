@@ -19,18 +19,19 @@ examples demonstrating how these techniques can be implemented across various
 configurations in different application domains will be shared.
 <br/><br/>
 **Tutorial Schedule (in PM): <br/>
-01:30 -- 02:00 Module I: Introduction to Secure ML and Distributed Deep Learning <br/> by
+01:30 -- 01:50 Module I: Introduction to Federated learning and Split learning <br/> by
 Ramesh Raskar, MIT <br/><br/>
-02:00 -- 03:00 Module II: Federated learning: Machine learning on decentralized data <br/> by
+01:50 -- 02:45 Module II: Federated learning: Machine learning on decentralized data <br/> by
 Brendan McMahan, Google <br/><br/>
-03:00 -- 03:10 Q&A and Break<br/><br/>
-03:10 -- 03:50 Module III: Split learning: Distributed machine learning with sensitive data <br/> by Praneeth Vepakomma, MIT and Otkrist Gupta, LendBuzz<br/><br/>
-03:50 -- 04:30 Module IV: Federated learning at Google - Research <br/> by
-Jakub Konečný, Google<br/><br/>
-04:30 -- 04:40 Q&A and Break<br/><br/>
-04:40 -- 05:20 Module V:  Homomorphic Encryption for Neural Networks & Privacy Policies in Cloud <br/> by
+02:45 -- 02:55 Q&A <br/><br/>
+02:55 -- 03:40 Module III A: Split learning: Resource efficient distributed machine learning  <br/> by Otkrist Gupta, LendBuzz <br/><br/>
+Module III B: Split learning: Reducing leakage in distributed machine learning  <br/> by Praneeth Vepakomma, MIT <br/><br/>
+03:40 -- 04:00 Q&A and Break<br/><br/>
+04:00 -- 04:25 Module IV: Homomorphic Encryption for Neural Networks & Privacy Policies in Cloud <br/> by
 Hassan Takabi, UNT <br/><br/>
-05:20 -- 05:30 Discussion of Open Problems <br/><br/>**
+04:25 -- 05:10 Module V:  Federated learning at Google - Research <br/> by
+Jakub Konečný, Google<br/><br/>
+05:10 -- 05:30 Discussion of Open Problems <br/><br/>**
 **Duration:** Half-day (4 hours)<br/><br/>
 **Organizers:**<br/>
 Brendan McMahan (Google, USA)<br/>
