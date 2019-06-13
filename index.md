@@ -21,11 +21,11 @@ configurations in different application domains will be shared.
 **Tutorial Schedule (in PM): <br/>
 01:30 -- 02:00 Module I: Introduction to Secure ML and Distributed Deep Learning <br/> by
 Ramesh Raskar, MIT <br/><br/>
-02:00 -- 03:00 Module II: Federated Learning at Google - Overview <br/> by
+02:00 -- 03:00 Module II: Federated learning: Machine learning on decentralized data <br/> by
 Brendan McMahan, Google <br/><br/>
 03:00 -- 03:10 Q&A and Break<br/><br/>
-03:10 -- 03:50 Module III: Split Learning <br/> by Praneeth Vepakomma, MIT and Otkrist Gupta, LendBuzz<br/><br/>
-03:50 -- 04:30 Module IV: Federated Learning at Google - Research <br/> by
+03:10 -- 03:50 Module III: Split learning: Distributed machine learning with sensitive data <br/> by Praneeth Vepakomma, MIT and Otkrist Gupta, LendBuzz<br/><br/>
+03:50 -- 04:30 Module IV: Federated learning at Google - Research <br/> by
 Jakub Konečný, Google<br/><br/>
 04:30 -- 04:40 Q&A and Break<br/><br/>
 04:40 -- 05:20 Module V:  Homomorphic Encryption for Neural Networks & Privacy Policies in Cloud <br/> by
